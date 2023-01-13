@@ -1,5 +1,5 @@
 ### Introduction - 👋
-- ✨ Hi, I’m [axelofwar](https://github.com/axelofwar?tab=repositories): an ADAS dev building self driving interfaces/tools by day, and cool AI, computer vision, and blockchain tools by night. 
+- ✨ Hi, I’m @axelofwar: an ADAS dev building self driving interfaces/tools by day, and cool AI, computer vision, and blockchain tools by night. 
 - 👀 I’m interested in robotics, autonomous vehicles, AI, web3, and football! ⚽ exploring NFTs atm: particularly solana, ETH, & NEAR. 
 
 ### Interests 
