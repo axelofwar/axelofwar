@@ -3,7 +3,7 @@
 - 👀 I’m interested in robotics, autonomous vehicles, AI, web3, and football! ⚽ exploring NFTs atm: particularly solana, ETH, & NEAR. 
 
 ### Interests 
-- 🌱 I’m currently learning blockchain development with rust (particularly SOL & NEAR) and other adjacent development opportunities! These include but aren't limited to: python bots, Unity 2D game development, and Django Full Stack web development
+- 🌱 I’m currently learning Full stack, dev ops, and blockchain development with rust (particularly SOL & NEAR) and other adjacent development opportunities! These include but aren't limited to: python bots, Unity 2D game development, and Full Stack web apps!
 - 💞️ I’m looking to collaborate on blockchain/web3 projects, AI or computer vision projects, ADAS projects, and ESports/gaming related projects!
 
 
